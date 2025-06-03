@@ -1,0 +1,37 @@
+Website Overview
+Bravura y Sabor offers a diverse range of grilled food and catering options. Their key services, as highlighted on the website, include:
+
+Cóctel Parrillero (BBQ Cocktail): A specialized grilled cocktail service.
+Asado al plato (Plated BBQ): Individual BBQ dishes served directly to guests.
+Asados Corporativos (Corporate BBQs): Comprehensive BBQ catering services tailored for corporate events.
+The website serves as their primary online platform to showcase these services, aiming to facilitate inquiries and bookings from potential clients.
+
+Technologies Used
+The Bravura y Sabor website is built on the Wix platform, leveraging its robust content delivery network and underlying technologies. This includes:
+
+Wix Thunderbolt: Wix's modern rendering engine and framework, ensuring a smooth user experience.
+React: A popular JavaScript library used for building dynamic and interactive user interfaces.
+Lodash: A JavaScript utility library that provides helpful functions for common programming tasks.
+Custom Fonts: A variety of fonts are employed for branding and readability, such as Proxima Nova, Montserrat, Avenir LT, DIN Neuzeit Grotesk, Lulo Clean, and Damion.
+Image and Video Hosting: Content is efficiently served via Wix's media servers, supporting modern formats like AVIF for images and MP4 for videos, optimizing loading times.
+Wix Ecosystem Services: The site integrates with various Wix services for essential functionalities like analytics, cookie consent management, and interactive features such as reactions/likes and advanced galleries.
+Content Structure and Key Features
+The website's content is primarily composed of high-quality images of food and events, promotional or informational videos, and detailed textual information describing services, menu items, and contact details.
+
+Key features of the site include:
+
+Responsive Design: The website's assets are optimized for various screen sizes, ensuring a consistent and appealing experience across different devices.
+Product/Service Showcase: A dedicated section, likely a slider gallery, effectively displays their offerings with pricing listed in Chilean Pesos (CLP).
+Analytics and Tracking: Integration with Wix's analytics platform helps Bravura y Sabor understand user behavior and preferences.
+Cookie Consent Management: A banner is present to manage user consent regarding cookie usage, adhering to privacy regulations.
+Interactive Galleries: Utilizing Wix's Pro Gallery to showcase images and media in an engaging format.
+Reactions/Likes System: A feature that allows users to express "love" for specific content items, fostering interaction.
+Development and Maintenance
+As the website is hosted on Wix, direct code-level modifications are not applicable. All development and maintenance, including updates to content, layout, and features, are managed through the user-friendly Wix editor and platform interface.
+
+Contact Information
+For business inquiries or service requests, please visit the Bravura y Sabor website.
+
+Benjamín Benavente can be reached via his GitHub profile: https://github.com/mrpersonico
+
+The Bravura y Sabor website repository can be found here: https://github.com/mrpersonico/bravuraysabor.com. The site was created on May 6, 2025.

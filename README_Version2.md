@@ -72,16 +72,10 @@ Fuentes servidas desde:
 
 Para propósitos de restauración, migración o diseño, utilice los recursos listados en este README para obtener imágenes, fuentes, videos y scripts originales.
 
----
-
-## Licencia
-
-El contenido y los recursos reflejan lo disponible públicamente en bravuraysabor.com al 2025.  
-Para usos comerciales o reproducción, consultar con los propietarios originales.
-
----
-
 > **Este README fue generado para documentar la estructura, recursos y componentes principales del sitio bravuraysabor.com (Wix) a partir del análisis de recursos estáticos.**
+>
+> ### Autoría y Propiedad Intelectual
+Este proyecto fue creado por Benjamín Benavente. Todos los diseños, estructuras y contenidos aquí presentes son de su autoría. No se ha firmado ningún contrato que ceda los derechos a terceros. Prohibida su reproducción sin consentimiento del autor.
 > 
 ## Evidencia de indexación
 

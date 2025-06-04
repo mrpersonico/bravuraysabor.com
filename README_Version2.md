@@ -86,7 +86,7 @@ No existe contrato, cesión ni renuncia de derechos hacia terceros. Queda expres
 
 ## Evidencia de indexación
 
-Este repositorio fue **indexado en Deepwiki** el *[coloca aquí la fecha exacta]* como parte del proceso de documentación y visibilización de autoría del proyecto.
+Este repositorio fue **indexado en Deepwiki** el 03 de junio de 2025 como parte del proceso de documentación y visibilización de autoría del proyecto.
 
-![Indexación en Deepwiki](https://deepwiki.com/mrpersonico/bravuraysabor.com)
+[Indexación en Deepwiki] (https://deepwiki.com/mrpersonico/bravuraysabor.com)
 

@@ -72,13 +72,21 @@ Fuentes servidas desde:
 
 Para propósitos de restauración, migración o diseño, utilice los recursos listados en este README para obtener imágenes, fuentes, videos y scripts originales.
 
+
 > **Este README fue generado para documentar la estructura, recursos y componentes principales del sitio bravuraysabor.com (Wix) a partir del análisis de recursos estáticos.**
->
-> ### Autoría y Propiedad Intelectual
-Este proyecto fue creado por Benjamín Benavente. Todos los diseños, estructuras y contenidos aquí presentes son de su autoría. No se ha firmado ningún contrato que ceda los derechos a terceros. Prohibida su reproducción sin consentimiento del autor.
-> 
+
+---
+
+### Autoría y Propiedad Intelectual
+
+Este proyecto fue creado y diseñado por **Benjamín Benavente**. Todos los diseños, estructuras y contenidos aquí presentes son de su autoría.  
+No existe contrato, cesión ni renuncia de derechos hacia terceros. Queda expresamente **prohibida su reproducción, modificación o uso comercial sin autorización previa del autor**.
+
+---
+
 ## Evidencia de indexación
 
-Este repositorio fue indexado en Deepwiki el [fecha], como parte del proceso de documentación y visibilización de autoría. Puedes ver el pantallazo del proceso a continuación:
+Este repositorio fue **indexado en Deepwiki** el *[coloca aquí la fecha exacta]* como parte del proceso de documentación y visibilización de autoría del proyecto.
 
-![Indexación en Deepwiki] https://deepwiki.com/mrpersonico/bravuraysabor.com
+![Indexación en Deepwiki](https://deepwiki.com/mrpersonico/bravuraysabor.com)
+

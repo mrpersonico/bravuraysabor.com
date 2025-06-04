@@ -82,3 +82,9 @@ Para usos comerciales o reproducción, consultar con los propietarios originales
 ---
 
 > **Este README fue generado para documentar la estructura, recursos y componentes principales del sitio bravuraysabor.com (Wix) a partir del análisis de recursos estáticos.**
+> 
+## Evidencia de indexación
+
+Este repositorio fue indexado en Deepwiki el [fecha], como parte del proceso de documentación y visibilización de autoría. Puedes ver el pantallazo del proceso a continuación:
+
+![Indexación en Deepwiki] https://deepwiki.com/mrpersonico/bravuraysabor.com
